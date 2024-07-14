@@ -16,4 +16,5 @@ Foi utilizado e estudado nesse projeto:
   -> Tratamendo de imagem (Estilização, arrendodamento, responsividade) <br/>
   -> Tratemento e estilização de formulários <br/>
 </p>
+<br/>
 Projeto simplificado somente para estudos.

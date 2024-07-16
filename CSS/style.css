@@ -157,6 +157,28 @@ input {
     background-color: #fff;
 }
 
+/*Formatação de imagem*/
+
+img.imagem-principal {
+    width: 98%;
+    border: 3px solid #dfdfdf;
+}
+
+/*Formatação de Cabeçalhos*/
+
+h3 {
+    text-transform: uppercase;
+    display: inline;
+    font-size: 0.8em;
+    padding: 3px;
+}
+
+.destaque h3 {
+    background: #b10333;
+    color: #fff;
+}
+
+
 #container-rodape {
     background: #294c71;
     padding: 20px;

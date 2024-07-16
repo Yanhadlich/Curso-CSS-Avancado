@@ -1,4 +1,4 @@
-<strong>Projeto de CSS3 avançado.</strong> 
+<strong>Projeto 01 - Curso CSS3 avançado.</strong> 
 
 Esse perojeto consiste em criar um site fictício de notícias.
 <br/>

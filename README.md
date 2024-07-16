@@ -11,7 +11,6 @@ Foi utilizado e estudado nesse projeto:
   -> Marcação de paginas <br/>
   -> Navegação com abas <br/>
   -> Layout de largura fixa <br/>
-  -> Layout liquido (Layout responsível) <br/>
   -> Tratamentos com colunas <br/>
   -> Tratamendo de imagem (Estilização, arrendodamento, responsividade) <br/>
   -> Tratemento e estilização de formulários <br/>
